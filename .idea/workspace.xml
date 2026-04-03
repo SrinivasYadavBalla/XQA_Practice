@@ -7,8 +7,6 @@
     <list default="true" id="487051a1-c014-4bf5-ae24-8dd94063cd62" name="Changes" comment="first code1 checkin">
       <change beforePath="$PROJECT_DIR$/.github/workflows/test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/driver_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/driver_factory.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775231656944</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first code1 checkin">
+      <option name="closed" value="true" />
+      <created>1775231963238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775231963238</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first code1 checkin">
+      <option name="closed" value="true" />
+      <created>1775231971823</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775231971823</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
